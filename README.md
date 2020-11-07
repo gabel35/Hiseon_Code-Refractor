@@ -7,10 +7,10 @@ https://gabel35.github.io/Hiseon_Code-Refractor.github.io/
 fixes:
   html:
 	removed individual classes from the 3 content groups
-	removed the </img> from the end of benefit brand
-	replaced <div> with semantic elements
-	added "alt=" to all images
-	changed the footer from <h2> to <h4>
+	removed the img from the end of benefit brand
+	replaced div with semantic elements
+	added alt to all images
+	changed the footer from h2 to <h4>
 	added the meta code for resizing on all devices
   css:
 	swapped the benefits section with the content section
